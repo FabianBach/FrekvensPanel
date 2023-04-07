@@ -2,6 +2,8 @@ This code shows an generated, never ending, random and organic animation on the 
 It is using the noise-generation of the FastLED library to generate the pattern.
 The pattern is then mirrored 3 times, to have some kind of kaleidoscope effect.
 
+See https://youtu.be/j3RFZMUZXFc
+
 The buttons change the brightness and the parameters for generating the noise-pattern.
 Using the easyButton library for the buttons.
 
